@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+2708c56e4e5300e8912fcb035ef8791f2fb82ffc refs/remotes/origin/develop
+a23634d588eec02d8f0abc86d3a06efbf4e87b86 refs/remotes/origin/feature/ios_fetch_all_contacts
+adeab5e1e8f7d64ae403cb2eb47d2881fb2afc6d refs/remotes/origin/master
+46a366de5b560b622a2e482671437f5f504e4991 refs/tags/0.0.1
+adeab5e1e8f7d64ae403cb2eb47d2881fb2afc6d refs/tags/0.0.3
